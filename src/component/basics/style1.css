@@ -1,0 +1,15 @@
+.d{
+    position:absolute;
+    background-color: white;
+    border-radius:100px;
+    z-index:4;
+    height:100px;
+    width:400px;
+    margin-left:0x;
+    margin-top:30px;
+    text-align:center;
+    
+    font-size:50px;
+    color:rgb(157, 157, 198);
+    align:margin-left;
+}
